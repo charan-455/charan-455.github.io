@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **[Charan]**, a passionate **AI Engineer** with **2.5 years** of hands-on experience specializing in **Audio AI**. I work with cutting-edge machine learning and signal processing techniques to develop intelligent systems that understand and interact with speech data.
+Hi there! I'm **Charan**, a passionate **AI Engineer** with **2.5 years** of hands-on experience specializing in **Audio AI**. I work with cutting-edge machine learning and signal processing techniques to develop intelligent systems that understand and interact with speech data.
 
 ## 🚀 About Me
 
