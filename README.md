@@ -8,8 +8,8 @@ Hi there! I'm **Charan**, a passionate **AI Engineer** with **2.5 years** of han
 - **B.Tech ECE at AP IIT RGUKT RK Valley Kadapa** (2019-23)
 
 ## Work Experience
-- **Meeaami Technologies**: *_Audio AI Engineer_* (Jun 2023 - present)
-- **IIT Hyderabad**: *_Research Intern_* (Mar 2022 - Apr 2023)
+- **Meeaami Technologies**: **_Audio AI Engineer_** (Jun 2023 - present)
+- **IIT Hyderabad**: **_Research Intern_** (Mar 2022 - Apr 2023)
 
 ## Skills & Technologies:
 - **Machine Learning & Deep Learning**: TensorFlow, PyTorch, Keras
