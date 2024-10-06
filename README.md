@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub Profile!
-
 ## 🚀 About Me
 
 Hi there! I'm **Charan**, a passionate **AI Engineer** with **2.5 years** of hands-on experience specializing in **Signal Processing**. I work with cutting-edge machine learning, and  techniques to develop intelligent systems that understand and interact with speech data. With a strong foundation in **Machine Learning**, **Audio Signal Processing**, and **Deep Learning**, I've had the opportunity to contribute to impactful projects in the **Audio AI** industry. Currently, I’m working at an **Meeaami Technologies Audio AI company**, where I’ve been helping build and optimize AI-driven solutions that enhance audio understanding in various domains
