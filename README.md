@@ -109,8 +109,3 @@ I’m always open to collaboration and new opportunities. If you’d like to con
 <a href="https://x.com/b_charan_ckr/"><img align="left" src="https://github.com/charan-455/charan-455/blob/main/Images/twitter.png" alt="Charan | Twitter" width="30px"/></a>
 <a href="https://instagram.com/charan.ckr/"><img align="left" src="https://github.com/charan-455/charan-455/blob/main/Images/insta.png" alt="Charan | Instagram" width="30px"/></a>
 
-Thank you for visiting my profile! 😄
-
----
-
-*“If you’re not learning, you’re not growing.”* 🚀
