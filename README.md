@@ -101,11 +101,10 @@ Hindi, Kannada, Tamil, Bengali) using Kaldi speech processing toolkit.
 I’m always open to collaboration and new opportunities. If you’d like to connect, feel free to reach out to me on:
 
 - [bcharankumarreddy.ckr@gmail.com](mailto:bcharankumarreddy.ckr@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bcharankumarreddy)
+- [Medium](https://medium.com/@charan-455)
+- [Discord](https://discordapp.com/users/charan455)
+- [Twitter](https://x.com/b_charan_ckr)
+- [Instagram](https://instagram.com/charan.ckr)
 
-<a href="https://www.linkedin.com/in/bcharankumarreddy"><img align="left" src="https://github.com/charan-455/charan-455/blob/main/Images/linkedin.png" alt="Charan | LinkedIn" width="30px"/></a>
-<a href="mailto:bcharankumarrddy.ckr@gmail.com"><img align="left" src="https://github.com/charan-455/charan-455/blob/main/Images/mail.png" alt="Charan | Gmail" width="30px"/></a>
-<a href="https://medium.com/@charan-455/"><img align="left" src="https://github.com/charan-455/charan-455/blob/main/Images/medium.png" alt="Charan | Medium" width="30px"/></a>
-<a href="https://discordapp.com/users/charan455/"><img align="left" src="https://github.com/charan-455/charan-455/blob/main/Images/discord.png" alt="Charan | Discord" width="30px"/></a>
-<a href="https://x.com/b_charan_ckr/"><img align="left" src="https://github.com/charan-455/charan-455/blob/main/Images/twitter.png" alt="Charan | Twitter" width="30px"/></a>
-<a href="https://instagram.com/charan.ckr/"><img align="left" src="https://github.com/charan-455/charan-455/blob/main/Images/insta.png" alt="Charan | Instagram" width="30px"/></a>
 
